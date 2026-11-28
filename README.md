@@ -1,6 +1,6 @@
 # M701D Intercom Input Amplifier · Communication
 
-Ward-Beck Systems M701D, 1996|29. Wiki page: [M701D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M701D.html)
+Ward-Beck Systems M701D, 1996|29. Wiki page: [M701D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M701D-Intercom-Input-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
